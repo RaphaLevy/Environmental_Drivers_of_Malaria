@@ -1,5 +1,6 @@
 All data used in the development of the paper will be separated according to their respective source:
-- SIVEP: /sivep_notification_data/
+- sivep/ - Daily cases of infection by malaria
+- deter/ - Daily notified cases of deforestation in km² obtained from DETER ([TerraBrasilis - DETER (notices)](https://terrabrasilis.dpi.inpe.br/app/dashboard/alerts/biomes/amazonia-nb/daily/#))
 
 The datasets may have undergone the following processing steps, as applicable:
 - Data cleaning and consistency checks.
