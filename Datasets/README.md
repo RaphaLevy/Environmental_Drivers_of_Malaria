@@ -19,6 +19,9 @@ All data used in the development of the paper will be separated according to the
   - cumulative_manaus_cases_2016_2023.csv: Aggregated daily data on total cases of malaria occurring in Manaus from 2016-01-01 to 2024-12-29
   - malaria_vivax_YYYY_treated.csv: Daily notifications of malaria in Brazil, separated by year 
   - yearly_summary_2016_2023.csv: Summary of yearly data on total new cases occurring per year in Manaus,	average daily number of active cases, highest number of simultaneous active cases, cumulative number of cases by the end of the year
+- trajetorias/ - Contains epidemiological and populational data gathered from the Trajetorias Project ([https://www.nature.com/articles/s41597-023-01962-1](https://www.nature.com/articles/s41597-023-01962-1) (Paper); [https://zenodo.org/records/7098053](https://zenodo.org/records/7098053) (Dataset)):
+  - TRAJETORIAS_DATASET_Epidemiological_dimension_indicators.csv: Contains epidemiological data regarding type of disease, time period, location, residential zone, number of cases and incidence from the Trajetorias project
+  - TRAJETORIAS_DATASET_Population_indicators.csv: Contains populational data regarding location, population in different time periods and estimated population 
 
 
 
