@@ -5,7 +5,11 @@ All data used in the development of the paper will be separated according to the
 - mosqlimate_api/ - Contains two datasets of climate data obtained from the Mosqlimate datastore ([Mosqlimate API](https://api.mosqlimate.org/api/docs#/datastore/datastore_api_get_copernicus_brasil)):
   - climate_api_data_2016_2024.csv: Daily climatic data from 2016-01-01 to 2024-12-31, used for the main analysis
   - climate_api_data_aug_2003_jul_2004.csv: Daily climatic data from 2003-08-01 to 2004-07-31, used in the estimation of proper parameters of the birth rate, based on the work by de Barros, Honório and Arruda (2011)
-- sivep/ - Daily cases of infection by malaria
+- sivep/ - Daily cases of infection by malaria:
+  - cumulative_manaus_cases_2016_2023.csv: Aggregated daily data on total cases of malaria occurring in Manaus from 2016-01-01 to 2024-12-29
+  - malaria_vivax_YYYY_treated.csv: Daily notifications of malaria in Brazil, separated by year 
+  - yearly_summary_2016_2023.csv: Summary of yearly data on total new cases occurring per year in Manaus,	average daily number of active cases, highest number of simultaneous active cases, cumulative number of cases by the end of the year
+
 
 
 The datasets may have undergone the following processing steps, as applicable:
