@@ -9,6 +9,8 @@ All data used in the development of the paper will be separated according to the
     - 2010: [IBGE 2010](https://www.ibge.gov.br/estatisticas/sociais/populacao/9662-censo-demografico-2010.html?=&t=resultados)
     - 2022: [IBGE 2022](https://cidades.ibge.gov.br/brasil/am/manaus/panorama)
     - 2025: [IBGE 2025](https://www.ibge.gov.br/cidades-e-estados/am/manaus.html)
+- inpe/ - Contains a single dataset of daily fire counts data gathered by INPE, obtained from the Base dos Dados dataset
+([Banco de Dados de Queimadas](https://basedosdados.org/dataset/f06f3cdc-b539-409b-b311-1ff8878fb8d9?table=a3696dc2-4dd1-4f7e-9769-6aa16a1556b8))
 - mosqlimate_api/ - Contains two datasets of climate data obtained from the Mosqlimate datastore ([Mosqlimate API](https://api.mosqlimate.org/api/docs#/datastore/datastore_api_get_copernicus_brasil)):
   - climate_api_data_2016_2024.csv: Daily climatic data from 2016-01-01 to 2024-12-31, used for the main analysis
   - climate_api_data_aug_2003_jul_2004.csv: Daily climatic data from 2003-08-01 to 2004-07-31, used in the estimation of proper parameters of the birth rate, based on the work by de Barros, Honório and Arruda (2011)
