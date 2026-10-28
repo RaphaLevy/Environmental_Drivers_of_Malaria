@@ -1,4 +1,4 @@
-Figures created during the development of the paper will be separated on two folders, one for the ones presented on the paper proper, and one with unused figures, which will be considered the Supplementary Material:
+Figures created during the development of the paper will be separated on two folders, one for the ones presented on the paper proper, and one with unused figures, which will be considered the Supplementary Material. Figures on Paper/ will be numbered as they appear on the paper:
 
 - Paper/
   1. [Figure 1](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Paper/total_active_infectious_cases_manaus_2017_2023.png): Total number of active infectious cases of malaria (_P. vivax_, SIVEP-Malaria) in rural Manaus, 2017-2023. The strong inter- and 
