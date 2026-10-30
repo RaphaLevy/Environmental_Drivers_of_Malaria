@@ -33,3 +33,17 @@ $\mathcal{R}(t)$ for the calibrated model in 2017.
   sequential topic fits, and joint refinement are the same as in Figure S.5a; only the
   year-specific observations change. As in Figure S.5a, these are in-sample fit
   diagnostics, not out-of-sample validation.
+  14. Figures S.6a-S.6f: Same weekly-beta diagnostic as Figure 2, applied to
+  [2018](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2018.png), [2019](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2019.png), [2020](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2020.png),
+  [2021]([...](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2021.png)), [2022](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2022.png), and [2023](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2023.png).
+  Each panel compares the observed active rural malaria cases from SIVEP (red),
+  the calibrated climate-driven constant-coefficient model (blue), and the model
+  with free weekly per-bite transmission probabilities (green) for the
+  corresponding year. The construction is the same as in Figure 2: 53 weekly
+  values of $\beta_m$ and $\beta_h$ are fitted by weighted least squares
+  while all other yearly parameters are held at their calibrated values. The
+  within-year wMSE reductions are 25.4-fold, 73.9-fold, 65.6-fold, 25.4-fold,
+  14.6-fold, and 2.4-fold for 2018-2023, respectively (Table 4). Because the
+  weekly coefficients are fitted to the same observations, these are in-sample
+  diagnostics of where the climate-driven formulation fails, not independent
+  validation or predictive models.
