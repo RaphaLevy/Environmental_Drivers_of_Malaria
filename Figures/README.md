@@ -35,7 +35,7 @@ $\mathcal{R}(t)$ for the calibrated model in 2017.
   diagnostics, not out-of-sample validation.
   14. Figures S.6a-S.6f: Same weekly-beta diagnostic as Figure 2, applied to
   [2018](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2018.png), [2019](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2019.png), [2020](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2020.png),
-  [2021]([...](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2021.png)), [2022](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2022.png), and [2023](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2023.png).
+  [2021](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2021.png), [2022](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2022.png), and [2023](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Weekly_Beta_Calibration_2023.png).
   Each panel compares the observed active rural malaria cases from SIVEP (red),
   the calibrated climate-driven constant-coefficient model (blue), and the model
   with free weekly per-bite transmission probabilities (green) for the
@@ -47,3 +47,6 @@ $\mathcal{R}(t)$ for the calibrated model in 2017.
   weekly coefficients are fitted to the same observations, these are in-sample
   diagnostics of where the climate-driven formulation fails, not independent
   validation or predictive models.
+  15. [Figure S.7](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Yearly_Rt.png): Seasonal variation of the coupled reproduction number
+$\mathcal{R}(t)$ for the calibrated model in from 2017 to 2023.
+  16. [Figure S.8](https://github.com/RaphaLevy/Environmental_Drivers_of_Malaria/blob/main/Figures/Supplementary_Material/Sobol_IH_Qpeak.png): First-order ($S\_i$) and total-order ($S\_{T\_i}$) Sobol' indices of the decomposed parameters for the output $Y = Q\_{\mathrm{peak}}$, the seasonal peak of the infectious-human compartment defined in Eq. (39), over the whole admissible parameter box of Table A.3 (Saltelli design, $N = 512$; bars coloured by parameter group), with no omitted parameters.
